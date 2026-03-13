@@ -20,6 +20,7 @@ solving que daily.
 | [0027-remove-element](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -43,4 +44,8 @@ solving que daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
