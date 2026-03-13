@@ -6,6 +6,7 @@ solving que daily.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -17,6 +18,7 @@ solving que daily.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -54,4 +56,8 @@ solving que daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
