@@ -12,6 +12,7 @@ solving que daily.
 | [0136-single-number](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,10 +20,12 @@ solving que daily.
 | [0027-remove-element](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
