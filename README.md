@@ -12,6 +12,7 @@ solving que daily.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -25,6 +26,7 @@ solving que daily.
 | [0011-container-with-most-water](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
