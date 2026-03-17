@@ -82,4 +82,8 @@ solving que daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2469-convert-the-temperature](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 <!---LeetCode Topics End-->
