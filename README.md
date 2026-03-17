@@ -12,6 +12,7 @@ solving que daily.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0053-maximum-subarray](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0136-single-number/) | Easy |
@@ -75,6 +76,7 @@ solving que daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -94,4 +96,8 @@ solving que daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
