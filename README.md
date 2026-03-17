@@ -85,5 +85,10 @@ solving que daily.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2413-smallest-even-multiple](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/2469-convert-the-temperature/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2413-smallest-even-multiple](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 <!---LeetCode Topics End-->
