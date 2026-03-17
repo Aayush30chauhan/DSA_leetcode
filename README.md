@@ -8,6 +8,7 @@ solving que daily.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -57,6 +58,7 @@ solving que daily.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -76,4 +78,8 @@ solving que daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0169-majority-element/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
