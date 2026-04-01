@@ -23,6 +23,7 @@ solving que daily.
 | [0977-squares-of-a-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ solving que daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
