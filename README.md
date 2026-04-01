@@ -21,6 +21,7 @@ solving que daily.
 | [0209-minimum-size-subarray-sum](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -98,6 +99,7 @@ solving que daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/2469-convert-the-temperature/) | Easy |
