@@ -22,6 +22,7 @@ solving que daily.
 | [0560-subarray-sum-equals-k](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
@@ -73,6 +74,7 @@ solving que daily.
 | [0169-majority-element](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0169-majority-element/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +89,7 @@ solving que daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0169-majority-element/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +98,7 @@ solving que daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 ## Number Theory
