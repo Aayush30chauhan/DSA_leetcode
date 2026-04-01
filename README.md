@@ -21,6 +21,7 @@ solving que daily.
 | [0209-minimum-size-subarray-sum](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@ solving que daily.
 | [0088-merge-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0169-majority-element/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@ solving que daily.
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0169-majority-element/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +108,8 @@ solving que daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
