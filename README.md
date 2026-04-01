@@ -24,6 +24,7 @@ solving que daily.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
@@ -64,6 +65,7 @@ solving que daily.
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Aayush30chauhan/DSA_leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
